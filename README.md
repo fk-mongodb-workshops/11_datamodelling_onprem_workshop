@@ -7,3 +7,4 @@
 5. Bulk operation, [repo](https://github.com/fk-mongodb-workshops/03_customer/tree/main/bulk)
 6. In-use encryption using CSFLE, [repo](https://github.com/fk-mongodb-workshops/01_merchant/tree/main/csfle)
 7. In-use encryption using QE, [repo](https://github.com/fk-mongodb-workshops/01_merchant/tree/main/queryable_encryption)
+8. Docker compose, [repo](https://github.com/fk-mongodb-workshops/04_docker)
